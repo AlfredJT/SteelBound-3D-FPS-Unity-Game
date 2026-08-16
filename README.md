@@ -52,8 +52,9 @@ Scripts/
 * **Audio & Sound Effects:** [AudioRoom](https://assetstore.unity.com/) by **DATARAM57**
 * **Visual & Particle Effects:** [Legacy Particle Pack](https://assetstore.unity.com/) by **Unity Technologies**
 
+## License
 
-
+Distributed under the MIT License. See LICENSE for more information.
 
 
 
