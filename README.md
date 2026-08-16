@@ -38,6 +38,7 @@ Scripts/
 ## Gameplay
 
 [![Watch SteelBound Gameplay Demo](https://img.youtube.com/vi/dFUzfuMEoFM/maxresdefault.jpg)](https://youtu.be/dFUzfuMEoFM)
+*Click Image to Watch
 
 
 
