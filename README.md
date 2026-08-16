@@ -35,6 +35,14 @@ Scripts/
 
 <img width="1672" height="941" alt="Steel21" src="https://github.com/user-attachments/assets/af477959-2c46-4c08-9af1-b0580cd071f2" />
 
+## Gameplay
+
+[![Watch SteelBound Gameplay Demo](https://img.youtube.com/vi/dFUzfuMEoFM/maxresdefault.jpg)](https://youtu.be/dFUzfuMEoFM)
+
+
+
+
+
 ## Attributions & Credits
 
 * **Engine:** [Unity Engine](https://unity.com/) by **Unity Technologies**
